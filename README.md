@@ -1,0 +1,4 @@
+The ability to anticipate the next word in a sequence is not only a fundamental aspect of human language comprehension, but also holds immense potential for various technological advancements. This project delves into the fascinating world of next word prediction using the power of deep learning, exploring its capabilities and potential applications.
+
+Leveraging the versatility of deep learning models, this project investigates the effectiveness of [mention specific model(s) you used] in predicting the next word in a given text sequence. By training the model on provided dataset whhihc is a ebook, we aim to achieve accurate and context-aware predictions, pushing the boundaries of language understanding and generation.
+Through this exploration, we unveil the remarkable capabilities of deep learning in predicting the next word, opening doors to exciting possibilities.
